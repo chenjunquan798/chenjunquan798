@@ -111,7 +111,7 @@ def card(data: dict, theme: str) -> str:
     )
 
     metrics = [
-        ("Repositories", data["repos"]),
+        ("Projects", data["repos"]),
         ("Stars earned", data["stars"]),
         ("Commits", data["commits"]),
         ("Followers", data["followers"]),
@@ -163,7 +163,7 @@ def card(data: dict, theme: str) -> str:
     else:
         add(
             f'<text x="512" y="100" fill="{t["muted"]}" font-family="{font}" '
-            f'font-size="13">No public repositories yet.</text>'
+            f'font-size="13">No public projects yet.</text>'
         )
         add(
             f'<text x="512" y="124" fill="{t["muted"]}" font-family="{font}" '

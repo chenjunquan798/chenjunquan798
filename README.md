@@ -59,7 +59,7 @@ I build with language models — mostly the unglamorous half: grounding answers 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
-  <img src="./assets/stats-light.svg" alt="Public activity — repositories, stars, commits, followers and top languages" width="100%">
+  <img src="./assets/stats-light.svg" alt="Public activity — projects, stars, commits, followers and top languages" width="100%">
 </picture>
 
 ## Contributions · 贡献
