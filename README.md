@@ -62,14 +62,6 @@ I build with language models — mostly the unglamorous half: grounding answers 
   <img src="./assets/stats-light.svg" alt="Public activity — repositories, stars, commits, followers and top languages" width="100%">
 </picture>
 
-## Contributions · 贡献
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chenjunquan798/chenjunquan798/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chenjunquan798/chenjunquan798/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/chenjunquan798/chenjunquan798/output/github-snake.svg" alt="Contribution snake" width="100%">
-</picture>
-
 ---
 
-<sub>The banner and activity card are SVG generated in this repository — <a href="./scripts/gen_assets.py"><code>gen_assets.py</code></a> and <a href="./scripts/gen_stats.py"><code>gen_stats.py</code></a> (refreshed daily by a workflow); the snake comes from <a href="./.github/workflows/snake.yml">Actions</a>. Badges are shields.io; the rest has no third-party dependency.</sub>
+<sub>The banner and activity card are SVG generated in this repository — <a href="./scripts/gen_assets.py"><code>gen_assets.py</code></a> and <a href="./scripts/gen_stats.py"><code>gen_stats.py</code></a> (refreshed daily by a workflow); Badges are shields.io; the rest has no third-party dependency.</sub>
